@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<persons>
+  <person name="Lulu">
+    <age>1</age>
+    <main>the loveliest dog</main>
+  </person>
+</persons> 
